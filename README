@@ -1,0 +1,10 @@
+//************************
+Responsive Template w/ Foundation 5, Font Awesome and Gulp
+
+1. Install npm, bower and gulp on your computer globally
+2. In this theme directory:
+  a. Run npm install (may need to use sudo npm install)
+  b. Run bower install
+  c. Read this to get Gulp up and running: 
+     http://travismaynard.com/writing/getting-started-with-gulp
+  d. Go forth and code! 
